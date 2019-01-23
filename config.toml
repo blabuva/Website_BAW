@@ -7,13 +7,13 @@ googleAnalytics = ""
 
 [params]
     author = "Mark Beenhakker"
-    description = "Some random thought"
+    description = "A Neuroscience outreach program"
     githubUsername = "#"
     accent = "red"
     showBorder = true
     backgroundColor = "white"
     # font = "Raleway" # should match the name on Google Fonts!
-    font = "Patua One"
+    font = "Trocchi"
     highlight = true
     highlightStyle = "solarized-dark"
     highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
