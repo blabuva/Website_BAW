@@ -55,7 +55,7 @@ googleAnalytics = ""
 #   Only the icons up to version 4.7.0 are available
 
 [[menu.icon]]
-    url = "blab@virginia.edu"
+    url = "mailto:blab@virginia.edu"
     name = "envelope-o"
     weight = 1
 
