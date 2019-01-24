@@ -5,6 +5,7 @@ tags: ["ppt"]
 type: no-related
 draft: false
 description: "Exciting brain presentations!"
+disableComments: true
 ---
 
 {{< directoryindex-blab path="/content/materials/powerpoints" pathURL="/materials/powerpoints" >}}
