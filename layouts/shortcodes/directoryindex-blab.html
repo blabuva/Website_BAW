@@ -1,0 +1,23 @@
+<!-- Retrieve parameters -->
+{{- $pathURL := .Get "pathURL" -}}
+{{- $path := .Get "path" -}}
+
+<!-- Read all the files in the given directory -->
+{{- $files := readDir $path -}}
+
+<!-- Create the table -->
+<table>
+    <!-- Create header -->
+    <th>File</th>
+    <th>Size in MB</th>
+    <th>Last Updated</th>
+{{- range $files }}
+
+    <!-- Create each row -->
+    <tr>
+        <td><a href="{{ $pathURL }}{{ .Name | relURL }}" target="_blank"> {{ .Name }}</a></td>
+        <td>{{ printf "%.2g" (div .Size 1000000.0) }}</td>
+        <td>{{ dateFormat "Jan 2, 2006" .ModTime }}</td>
+    </tr>
+{{- end }}
+</table>
