@@ -1,4 +1,5 @@
-baseURL = "http://brain.how/"
+# baseURL = "http://brain.how/"
+baseURL = "/"
 languageCode = "en-us"
 title = "Brain Awareness Week"
 theme = "minimal"

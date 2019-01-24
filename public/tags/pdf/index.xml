@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pdf on Brain Awareness Week</title>
-    <link>http://brain.how/tags/pdf/</link>
+    <link>/tags/pdf/</link>
     <description>Recent content in Pdf on Brain Awareness Week</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://brain.how/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Handouts</title>
-      <link>http://brain.how/materials/handouts/handouts/</link>
+      <link>/materials/handouts/handouts/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://brain.how/materials/handouts/handouts/</guid>
+      <guid>/materials/handouts/handouts/</guid>
       <description></description>
     </item>
     

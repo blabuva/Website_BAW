@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brain Awareness Week</title>
-    <link>http://brain.how/</link>
+    <link>/</link>
     <description>Recent content on Brain Awareness Week</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://brain.how/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PowerPoints</title>
-      <link>http://brain.how/materials/powerpoints/</link>
+      <link>/materials/powerpoints/</link>
       <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://brain.how/materials/powerpoints/</guid>
+      <guid>/materials/powerpoints/</guid>
       <description> PowerPoints for Brain Awareness Week classroom presentations  Kindergarten 1st Grade 3rd Grade Version 1 3rd Grade Version 2 4-5th Grade 4-5th Grade Advanced 6th Grade 7th Grade High School Version 1 High School Version 2 High School Version 3 Animal Brains Brain Anatomy and Dysfunction Hearing Learning to Read Memory Vision  </description>
     </item>
     
     <item>
       <title>Handouts</title>
-      <link>http://brain.how/materials/handouts/handouts/</link>
+      <link>/materials/handouts/handouts/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://brain.how/materials/handouts/handouts/</guid>
+      <guid>/materials/handouts/handouts/</guid>
       <description></description>
     </item>
     
