@@ -52,28 +52,34 @@ googleAnalytics = ""
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
+#   Only the icons up to version 4.7.0 are available
 
 [[menu.icon]]
-    url = "mailto:me@example.com"
+    url = "blab@virginia.edu"
     name = "envelope-o"
     weight = 1
 
 [[menu.icon]]
-    url = "https://github.com/username/"
+    url = "https://github.com/blabuva/Website_BAW"
     name = "github"
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/username/"
-    name = "twitter"
+    url = "http://neurograd.virginia.edu/"
+    name = "info"
     weight = 3
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/username/"
-    name = "linkedin"
-    weight = 4
+# [[menu.icon]]
+#     url = "https://twitter.com/username/"
+#     name = "twitter"
+#     weight = 4
 
-[[menu.icon]]
-    url = "https://www.stackoverflow.com/username/"
-    name = "stack-overflow"
-    weight = 5
+# [[menu.icon]]
+#     url = "https://www.linkedin.com/in/username/"
+#     name = "linkedin"
+#     weight = 5
+
+# [[menu.icon]]
+#     url = "https://www.stackoverflow.com/username/"
+#     name = "stack-overflow"
+#     weight = 6
