@@ -1,5 +1,5 @@
 ---
-title: "Powerpoints"
+title: "PowerPoints"
 date: 2019-01-08
 tags: ["go", "golang", "template", "themes", "development"]
 draft: false
