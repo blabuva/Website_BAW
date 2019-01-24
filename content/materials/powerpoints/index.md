@@ -1,13 +1,14 @@
 ---
 title: "PowerPoints"
-date: 2019-01-08
-tags: ["go", "golang", "template", "themes", "development"]
+date: 2019-01-24
+tags: ["ppt"]
+type: no-related
 draft: false
 ---
 
 ##### PowerPoints for Brain Awareness Week classroom presentations
 
-+ **[Kindergarten](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+Kindergarten.pptx)**
++ [**Kindergarten**](BAW Kindergarten.pptx)
 + [**1st Grade**](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+1st+Grade.pptx)
 + [**3rd Grade Version 1**](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+3rd+Grade(1).pptx)
 + **[3rd Grade Version 2](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+3rd+Grade(2).pptx)**
@@ -24,4 +25,3 @@ draft: false
 + **[Learning to Read](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+Learning+to+Read.pptx)**
 + **[Memory](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+Memory.pptx)**
 + **[Vision](https://s3.amazonaws.com/beenhakkerlab/BAW/PowerPoints/BAW+Vision.pptx)**
-

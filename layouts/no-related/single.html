@@ -1,0 +1,19 @@
+{{ partial "header" . }}
+
+<main>
+
+    {{ partial "list-item" . }}
+
+    <br> <div class="text-justify">{{ .Content }}</div>
+
+    {{ if and .Site.DisqusShortname (not .Params.disableComments) }}
+
+        <h4 class="page-header">Comments</h4>
+
+        {{ template "_internal/disqus.html" . }}
+
+    {{ end }}
+
+</main>
+
+{{ partial "footer.html" . }}
