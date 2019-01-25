@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Brain Awareness Week</title>
+    <link>/tags/slides/</link>
+    <description>Recent content in Slides on Brain Awareness Week</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PowerPoints</title>
+      <link>/materials/powerpoints/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/materials/powerpoints/</guid>
+      <description>File Size (MB) Last Updated  1st Grade 1.2 Jan 23, 2019   3rd Grade Version 1 4 Jan 23, 2019   3rd Grade Version 2 1.7 Jan 23, 2019   4-5th Grade Advanced 1.4 Jan 23, 2019   4-5th Grade 17 Jan 23, 2019   6th Grade 6 Jan 23, 2019   7th Grade 58 Jan 23, 2019   Animal Brains 0.</description>
+    </item>
+    
+  </channel>
+</rss>

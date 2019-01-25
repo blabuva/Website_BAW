@@ -16,7 +16,7 @@
     {{- range $files }}
         <tr>
             <!-- Log file name -->
-            <td width="60%"><a href="{{ $pathURL }}{{ .Name | relURL }}" target="_blank"> {{ strings.TrimSuffix ".pptx" .Name }}</a></td>
+            <td width="60%"><a href="{{ $pathURL }}{{ .Name | relURL }}" target="_blank"> {{ strings.TrimSuffix (path.Ext .Name) .Name }}</a></td>
 
             <!-- Log file size -->
             <td width="10%">{{ printf "%.2g" (div .Size 1000000.0) }}</td>
