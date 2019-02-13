@@ -8,7 +8,7 @@ googleAnalytics = ""
 
 [params]
     author = "Mark Beenhakker"
-    description = "A neuroscience outreach program"
+    description = "The University of Virginia's neuroscience outreach program"
     githubUsername = "#"
     accent = "red"
     showBorder = true
