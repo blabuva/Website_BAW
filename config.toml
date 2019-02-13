@@ -29,10 +29,10 @@ googleAnalytics = ""
     name = "Materials"
     weight = 2
 
-# [[menu.main]]
-#     url = "/calendar/"
-#     name = "Calendar"
-#     weight = 3
+[[menu.main]]
+    url = "/calendar/"
+    name = "Calendar"
+    weight = 3
 
 # [[menu.main]]
 #     url = "/pictures/"
